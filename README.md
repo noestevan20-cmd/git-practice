@@ -8,4 +8,4 @@ Repositorio creado para aprender Git y GitHub desde cero.
 
 - Aprender Git
 - Aprender GitHub
-- Documentar mi progreso en programación
+- Documentar mi progreso en programación y algo más
